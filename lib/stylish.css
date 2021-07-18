@@ -49,13 +49,13 @@ body{
     border-top-left-radius: 2rem;
 }
 .nav-head{
-    padding: 1rem;
+    padding: 2rem;
     font-weight: bold;
     font-size: medium;
 }
 .nav-container .links{
     color: white;
-    margin:0.2rem;
+    margin: 0.1rem;
 }
 .nav-container .list-no-bullet{
     text-align: right;
