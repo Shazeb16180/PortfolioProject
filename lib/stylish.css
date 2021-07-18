@@ -101,3 +101,8 @@ section{
 .footer .list-no-bullet{
     padding-bottom: 1.5rem;
 }
+.section .head-img{
+    max-width:500px;
+     display: block;
+     margin:auto;
+ }
