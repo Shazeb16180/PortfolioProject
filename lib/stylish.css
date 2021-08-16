@@ -19,7 +19,7 @@ body{
 }
 .links{
     text-decoration: none;
-    padding: 0rem 0.4rem;
+    padding: 0rem 0.5rem;
 }
 .link-active{
     font-weight:bold;
