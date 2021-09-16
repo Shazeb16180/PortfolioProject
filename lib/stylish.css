@@ -107,7 +107,6 @@ section{
     padding-bottom: 1.5rem;
 }
 .section .head-img{
-    max-width:500px;
      display: block;
      margin:auto;
  }
@@ -115,5 +114,9 @@ section{
      white-space: pre-line;
      word-break: break-word;
      text-align: justify;
+ }
+ .head-img{
+     width: 100%;
+     height: auto;
  }
  
