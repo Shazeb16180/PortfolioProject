@@ -111,4 +111,9 @@ section{
      display: block;
      margin:auto;
  }
+ pre{
+     white-space: pre-line;
+     word-break: break-word;
+     text-align: justify;
+ }
  
