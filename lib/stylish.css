@@ -43,7 +43,7 @@ body{
 }
 .list-inline{
     display: inline;
-    padding:0rem 1rem;
+    /*padding:0rem 1rem;*/
 }
 .nav-container{
     background: var(--primary-color);
@@ -111,3 +111,4 @@ section{
      display: block;
      margin:auto;
  }
+ 
