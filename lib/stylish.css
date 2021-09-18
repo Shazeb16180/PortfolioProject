@@ -4,6 +4,9 @@
     --second:#374151;
 
 }
+medium{
+    color:var(--primary-color);
+}
 body{
     font-family: 'Source Sans Pro', sans-serif;
     margin: 0px;
